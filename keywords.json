@@ -1,0 +1,14 @@
+{
+    "siblings": 
+    {
+        "response": "Did you know: Mickey has too many siblings to count, a fact of which she is incredibly pleased about and is never in the slightest frustrated by.",
+        "key":["sibling", "sister", "brother"],
+        "caller": "Mickey"
+    },
+    "sharpie": 
+    {
+        "response": "Mrs. Lefstad is disappointed! No huffing sharpies!",
+        "key": ["sharpie", "marker", "huff", "sniff"],
+        "caller": "any"
+    }
+}
