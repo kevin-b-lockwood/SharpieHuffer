@@ -31,24 +31,6 @@ async def on_message(message):
         if can_send:
             await channel.send(response)
 
-# with open("sibling_words.txt", "r") as sibling_keywords:
-#     sibling_words = sibling_keywords.readlines()
-# 
-# for i in range(len(sibling_words)):
-#     sibling_words[i] = sibling_words[i].strip()
-# 
-# @client.event
-# async def on_message(message):
-#     has_sent = False
-#     channel = message.channel
-#     for x in sibling_words:
-#         if (message.content.lower().count(x.lower()) > 0 and has_sent == False and message.author.name != "SharpieHuffer" and message.author.name == "Mickey"):
-#             await channel.send("Did you know: Mickey has too many siblings to count")
-#             has_sent = True
-#     has_sent = False
-#     if (message.content.lower().count("sharpie" && has_sent == False and message.author.name != "SharpieHuffer"):
-#         await channel.send("Mrs. Lefstad is disappointed. No sniffing sharpies!")
-
 with open("token.txt", "r") as token_file:
     token = token_file.read()
 
