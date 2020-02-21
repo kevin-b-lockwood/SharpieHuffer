@@ -16,11 +16,5 @@
         "response": "I **__wake__** from my thousand minute slumber",
         "key": ["brother", "cletus", "shiney steve", "shiny steve"],
         "caller": "Hap452"
-    },
-    "vape":
-    {
-        "response": "You fool, you absolute *BUFFOON!* It's actually a dab pen, you clearly know nothing of drug culture",
-        "key": ["weed vape", "weed-vape"],
-        "caller": "any"
     }
 }
