@@ -16,5 +16,11 @@
         "response": "I **__wake__** from my thousand minute slumber",
         "key": ["brother", "cletus", "shiney steve", "shiny steve"],
         "caller": "Hap452"
+    },
+    "The Game":
+    {
+        "response": "poptarts are forever associated with \"The Game\"",
+        "key": ["pop-tart", "poptart", "pop tart", "The Game", "tart"],
+        "caller": "any"
     }
 }
